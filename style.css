@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+.header, .footer {
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.left-links {
+    font-size: 24px;
+    font-weight: 700;
+    margin-right: auto;
+}
+
+.title-description {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    gap: 20px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+}
