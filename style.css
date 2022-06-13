@@ -73,3 +73,7 @@ button {
     background-color: #3882F6;
     color: white;
 }
+
+img {
+    border-radius: 15px;
+}
