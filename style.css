@@ -5,6 +5,7 @@ body {
 .header, .footer {
     background-color: #1f2937;
     color: #F9FAF8;
+    border: #1f2937;
 }
 
 .title {
@@ -20,7 +21,7 @@ body {
 
 .title-description {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #b9babb;
 }
 
 ul {
@@ -35,5 +36,40 @@ ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px;
+    padding: 40px;
+}
+
+.content {
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 42px;
+}
+
+.title-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.title-description {
+    max-width: 600px;
+}
+
+button {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 36px;
+    padding-right: 36px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 15px;
+    border: 0px;
+}
+
+.title-signup {
+    background-color: #3882F6;
+    color: white;
 }
