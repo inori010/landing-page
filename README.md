@@ -5,3 +5,6 @@ Skills demonstrated in the project:
 - Set up an HTML file
 - CSS methods (flexbox)
 - The Box Model
+
+Photos Credit: 
+Sergey Pesterev (@sickle on Unsplash)
